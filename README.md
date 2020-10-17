@@ -27,3 +27,5 @@ _italic_
 ![image is here](DSC03957.jpg)
 
 [KudaGo: Москва](https://vk.com/kudago)
+
+![image 2 is here](img/DSC08087.jpg)
