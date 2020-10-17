@@ -25,3 +25,5 @@ _italic_
 3. three 
 
 ![image is here](DSC03957.jpg)
+
+[KudaGo: Москва](https://vk.com/kudago)
