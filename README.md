@@ -2,7 +2,7 @@
 
 ## _Над проектом работали: Милова Анастасия, Повстьева Карина_
 
-Файл с кодом находится [тут](project.ipynb).
+Файл с кодом находится [тут](Project.ipynb).
 
 ### __Задачи проекта:__
 
@@ -71,17 +71,17 @@
 
 * при помощи библиотеки "natasha" определили самые часто встречающиеся в текстах постов пабликов локации, организации и персоны:
 
-     * ![Локации "KudaGo: Москва"](files/locations_msk)   
+     * ![Локации "KudaGo: Москва"](files/locations_msk.txt)   
      
-     * ![Организации "KudaGo: Москва"](files/organizations_msk) 
+     * ![Организации "KudaGo: Москва"](files/organizations_msk.txt) 
      
-     * ![Персоны "KudaGo: Москва"](files/persons_msk) 
+     * ![Персоны "KudaGo: Москва"](files/persons_msk.txt) 
      
-     * ![Локации "KudaGo: Санкт-Петербург"](files/locations_spb) 
+     * ![Локации "KudaGo: Санкт-Петербург"](files/locations_spb.txt) 
      
-     * ![Организации "KudaGo: Санкт-Петерьург"](files/organizations_spb) 
+     * ![Организации "KudaGo: Санкт-Петербург"](files/organizations_spb.txt) 
      
-     * ![Персоны "KudaGo: Санкт-Петербург"](files/persons_spb) 
+     * ![Персоны "KudaGo: Санкт-Петербург"](files/persons_spb.txt) 
      
   Про локации, организации, персоны!!!!!!!!
      
